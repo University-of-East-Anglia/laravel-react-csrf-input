@@ -12,6 +12,10 @@
 		"react-scripts": "4.0.3",
 		"web-vitals": "^1.0.1"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/University-of-East-Anglia/laravel-react-csrf-input"
+	},
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
