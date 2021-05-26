@@ -12,6 +12,6 @@ const CSRFInput = ({
 };
 
 CSRFInput.propTypes = {
-  token: PropTypes.string.isRequired()
+  token: PropTypes.string.isRequired
 };
 export default CSRFInput;
