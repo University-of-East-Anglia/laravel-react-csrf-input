@@ -1,5 +1,5 @@
 {
-	"name": "laravel-react-csrf-input",
+	"name": "@ueaweb/laravel-react-csrf-input",
 	"version": "0.1.0",
 	"private": false,
 	"dependencies": {
@@ -40,5 +40,9 @@
 		"presets": [
 			"@babel/preset-react"
 		]
+	},
+	"devDependencies": {
+		"@babel/cli": "^7.14.3",
+		"@babel/preset-react": "^7.13.13"
 	}
 }
