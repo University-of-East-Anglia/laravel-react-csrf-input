@@ -1,7 +1,7 @@
 {
 	"name": "@ueaweb/laravel-react-csrf-input",
 	"version": "0.1.2",
-	"entrypoint": "dist/CSRFInput.js",
+	"main": "dist/CSRFInput.js",
 	"private": false,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.4",
