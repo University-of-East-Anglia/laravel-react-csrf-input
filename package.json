@@ -1,6 +1,6 @@
 {
 	"name": "@ueaweb/laravel-react-csrf-input",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"main": "dist/CSRFInput.js",
 	"private": false,
 	"files": [
