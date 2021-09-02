@@ -15,7 +15,7 @@ In your <head> element .blade.php
 In your JS
 ```jsx
 import React from "react";
-import CSRFInput from "laravel-react-csrf-input";
+import CSRFInput from "@ueaweb/laravel-react-csrf-input";
 
 const Form = () => {
 	const myToken = document.head.querySelector('meta[name="csrf-token"]').getAttribute('content');
